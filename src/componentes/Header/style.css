@@ -1,0 +1,21 @@
+header {
+  background-color: #000000;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nomeloja {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.subtitulo{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
